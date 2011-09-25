@@ -12,7 +12,7 @@ BACKUP: http://dl.dropbox.com/u/25586491/CanaryPlugins/StairDrops.jar
 
 ==LICENSE==
     
-    ToolHealthDisplay - CanaryMod Plugin for displaying Tool damage/usages left 
+    StairDrops - CanaryMod Plugin for returning Stairs when broken
     Copyright (C) 2011  Visual Illusions Entertainment
 
     This program is free software: you can redistribute it and/or modify
